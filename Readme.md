@@ -1,5 +1,5 @@
 ## Overview
-This application receives an input data file of list of hotels in XML and JSON formats,
+This is a CLI application that receives an input data file of list of hotels in XML and JSON formats,
 validates it and then converts it into CSV.
 
 ## Installation:
